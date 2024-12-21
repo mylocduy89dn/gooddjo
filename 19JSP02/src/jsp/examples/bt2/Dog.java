@@ -15,7 +15,7 @@ public class Dog {
 	public Dog(String color, String name, String breed) {
 		this.color = color;
 		this.name = name;
-		this.breed = breed;
+		this.breed = bre11ed;
 	}
 
 	protected void wagging(String waggingAction) {
