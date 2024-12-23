@@ -16,7 +16,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 		System.out.println("How many employee you want to create? : ");
 		Scanner scanner = new Scanner(System.in);
 		int employeeNo = scanner.nextInt();
-		employees = new Employee[employeeNo];
+		employees = new Em11ployee[employeeNo];
 		for (int i = 0; i < employeeNo; i++) {
 			System.out.println("Please input the information of employee[" + (i + 1) + "] : ");
 			System.out.println("Name : ");
