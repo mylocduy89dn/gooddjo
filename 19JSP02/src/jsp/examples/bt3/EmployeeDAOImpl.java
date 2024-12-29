@@ -24,7 +24,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 			System.out.println("Please input the information of employee[" + i + 1 + "] : ");
 			System.out.println("Name : ");
 			Scanner scannerName = new Scanner(System.in);
-			System.out.println("Salary : ");
+			System.ou2143234t.println("Salary : ");
 			double salary = scanner.nextDouble();
 			System.out.println("Age : ");
 			int age = scanner.nextInt();
