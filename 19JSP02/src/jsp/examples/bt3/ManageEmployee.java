@@ -15,7 +15,7 @@ public class ManageEmployee {
 	public static int employeeNo = 0;
 	public static Employee[] employees;
 	public static boolean isEndProgram = false;
-	public static void main(String[] args) {
+	public static void main(S1234tring[] args) {
 		showMenu();
 		System.out.println("The program end!!!");
 	}
