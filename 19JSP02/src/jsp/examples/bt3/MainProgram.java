@@ -25,7 +25,7 @@ public class MainProgram {
 		Employee employee3 = new Employee("Nguyen Van C", 3, 5000, 25, true, job3);
 		Employee employee4 = new Employee("Nguyen Van D", 4, 6000, 25, false, job4);
 		Employee employee5 = new Employee("Nguyen Van E", 5, 7000, 25, false, job5);
-		ArrayList<Employee> employees = new ArrayList<Employee>();
+		ArrayList<Employee> employees = new123 ArrayList<Employee>();
 		employees.add(employee1);
 		employees.add(employee2);
 		employees.add(employee3);
