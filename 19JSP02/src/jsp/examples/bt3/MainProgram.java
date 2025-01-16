@@ -18,7 +18,7 @@ public class MainProgram {
 		//Job job1 = new Job(1, "HR");
 		Job job2 = new Job(2, "BA");
 		Job job3 = new Job(3, "Tester123");
-		Job job4 = new Jo123b(4, "Developer");
+		Job job4 = new(4, "Developer");
 		Job job5 = new Job(5, "CEO");
 		Employee employee1 = new E123mployee("Nguyen Van A", 1, 3000, 25, false, new Job(1, "HR"));//1
 		Employee employee2 = new Employee("Nguyen Van B", 2, 4000, 25, false, job2);
