@@ -26,7 +26,7 @@ public class WriterReaderUtils {
 			// Write objects to file
 			for (int i = 0; i< employees.length; i++) {
 				o.writeObject(employees[i]);
-			}
+			}ưeq
 
 			o.close();
 			f.close();
